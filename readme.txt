@@ -45,7 +45,7 @@ Then just visit your admin area and activate the plugin.
 
 First of all, you need to insert the [tubematic] token into any page or post.  
 
-*Use apostrophes ('') to enclose each parameter value.*
+*Use apostrophes (') to enclose each parameter value.*
  
 The paramaters are as follows:
 
