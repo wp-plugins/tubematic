@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QRLJT
 Tags: RSS, feed, video, YouTube, TubeMatic, Google, API, gdata 
 Requires at least: 2.5
 Tested up to: 2.7.1
-Stable tag: trunk
+Stable tag: 1.0.0.0
 
 This plugin is made for easily embedding videos into a blog post or page.
 
